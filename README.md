@@ -1,5 +1,5 @@
 # bikesharing
-### click here to view the stroy on Tableau
+### [click here to view the stroy on Tableau] (https://public.tableau.com/app/profile/sarah.lodien/viz/NYCCitiBike-SharingAnalysisStory/NYCCitiBikeAnalysis?publish=yes) 
 ## Overview of Analysis
 The purpose of the analysis was to create a proposal that supports investors into bringing in a new bike-sharing program to Des Moines, Iowa. From the dataset we had, I was able to create 5 additional visualizations to make the proposal more appealing to the naked eye.  Some of the visualtions included; Number of bike trips by users and genders for each day and hour of the weeks, the lenght of time the bikes were checked out, even the busiest month, which in this case was August
 
