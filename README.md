@@ -3,7 +3,7 @@
 ## Overview of Analysis
 The purpose of the analysis was to create a proposal that supports investors into bringing in a new bike-sharing program to Des Moines, Iowa. From the dataset we had, I was able to create 5 additional visualizations to make the proposal more appealing to the naked eye.  Some of the visualtions included; Number of bike trips by users and genders for each day and hour of the weeks, the lenght of time the bikes were checked out, even the busiest month, which in this case was August
 
-Results:
+## Results:
 As I had imagined, August especially in the evenings were the most busy and more bikes were checked out. The results of the analysis and the visualosations are shown below
 
 Tableau
